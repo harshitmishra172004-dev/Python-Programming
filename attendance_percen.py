@@ -1,7 +1,5 @@
 #To calculate attendence percentage of present employees , using a loop with 'continue'to skip absent-marked records.
-
 total_employees = int(input("Enter total number of employees: "))
-
 present = 0
 
 for i in range(1, total_employees + 1):
