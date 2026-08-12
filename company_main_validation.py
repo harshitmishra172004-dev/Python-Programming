@@ -10,7 +10,7 @@ if len(parts) == 2:
     domain = parts[1]
 
     # Verify company domain
-    if domain.endswith("company.com"):
+    if domain.endswith("dev.com"):
         print("Valid Company Email")
 
         # Extract department code
