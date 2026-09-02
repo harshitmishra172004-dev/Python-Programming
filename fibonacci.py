@@ -7,5 +7,5 @@ def fibo(n):
 
 num = int(input("Enter the number of terms: "))
 print("Fibonacci sequence:")
-for i in range(num):
-    print(fibo(i), end=" ")
+for i in range (num):
+    print(fibo(i), end =" ")  
